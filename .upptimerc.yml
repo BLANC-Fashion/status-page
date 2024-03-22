@@ -9,6 +9,8 @@ sites:
     url: https://api.blancfashion.com/
   - name: Platform API v2
     url: https://new.api.blancfashion.com/
+  - name: Automation Service
+    url: $N8N_SERVICES
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
