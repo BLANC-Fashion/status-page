@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status-page
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://d1zcksbvpzkc0o.cloudfront.net/account/logo/4a7a6b9e4c9b11ed86240eca71e26a7a.png
   name: BLANC Status Page
   introTitle: "Follow the status of our main services"
   introMessage: This is a sample status page for [BLANC](https://blancfashion.com)
