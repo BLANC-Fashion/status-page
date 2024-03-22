@@ -1,7 +1,7 @@
 url: $N8N_SERVICES
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-22T18:05:42.866Z
+status: up
+code: 200
+responseTime: 470
+lastUpdated: 2024-03-22T20:59:09.229Z
 startTime: 2024-03-22T17:08:40.429Z
 generator: Upptime <https://github.com/upptime/upptime>
