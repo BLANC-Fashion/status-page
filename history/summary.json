@@ -78,9 +78,9 @@
     "url": "https://news.blancfashion.com/",
     "icon": "https://icons.duckduckgo.com/ip3/news.blancfashion.com.ico",
     "slug": "news-and-views",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,6 +89,8 @@
     "timeWeek": 772,
     "timeMonth": 813,
     "timeYear": 799,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-02": 0
+    }
   }
 ]
