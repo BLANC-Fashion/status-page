@@ -22,18 +22,20 @@
     "url": "https://api.blancfashion.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api.blancfashion.com.ico",
     "slug": "platform-api-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 131,
-    "timeWeek": 177,
-    "timeMonth": 193,
-    "timeYear": 209,
-    "dailyMinutesDown": {}
+    "time": 208,
+    "timeDay": 112,
+    "timeWeek": 167,
+    "timeMonth": 190,
+    "timeYear": 208,
+    "dailyMinutesDown": {
+      "2024-09-12": 0
+    }
   },
   {
     "name": "Platform API v2",
