@@ -22,9 +22,9 @@
     "url": "https://api.blancfashion.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api.blancfashion.com.ico",
     "slug": "platform-api-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 204,
     "timeMonth": 206,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-08": 0
+    }
   },
   {
     "name": "Platform API v2",
@@ -79,11 +81,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.blancfashion.com.ico",
     "slug": "news-and-views",
     "status": "up",
-    "uptime": "97.90%",
+    "uptime": "97.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.90%",
+    "uptimeYear": "97.91%",
     "time": 826,
     "timeDay": 812,
     "timeWeek": 868,
