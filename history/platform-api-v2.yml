@@ -1,7 +1,7 @@
 url: https://new.api.blancfashion.com/
-status: down
-code: 503
-responseTime: 1786
-lastUpdated: 2025-05-05T13:48:32.306Z
+status: up
+code: 200
+responseTime: 651
+lastUpdated: 2025-05-05T14:17:09.359Z
 startTime: 2024-03-22T17:02:41.155Z
 generator: Upptime <https://github.com/upptime/upptime>
