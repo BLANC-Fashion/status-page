@@ -40,18 +40,20 @@
     "url": "https://new.api.blancfashion.com/",
     "icon": "https://icons.duckduckgo.com/ip3/new.api.blancfashion.com.ico",
     "slug": "platform-api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 535,
-    "timeDay": 1210,
-    "timeWeek": 803,
-    "timeMonth": 844,
-    "timeYear": 555,
-    "dailyMinutesDown": {}
+    "time": 538,
+    "timeDay": 1498,
+    "timeWeek": 926,
+    "timeMonth": 874,
+    "timeYear": 558,
+    "dailyMinutesDown": {
+      "2025-05-05": 0
+    }
   },
   {
     "name": "Automation Service",
