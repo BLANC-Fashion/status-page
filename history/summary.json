@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 191,
-    "timeWeek": 163,
-    "timeMonth": 137,
+    "timeDay": 64,
+    "timeWeek": 142,
+    "timeMonth": 135,
     "timeYear": 144,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 225,
-    "timeDay": 241,
-    "timeWeek": 209,
-    "timeMonth": 204,
-    "timeYear": 227,
+    "timeDay": 97,
+    "timeWeek": 181,
+    "timeMonth": 201,
+    "timeYear": 226,
     "dailyMinutesDown": {
       "2025-10-20": 33,
       "2026-02-21": 38
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 765,
-    "timeDay": 560,
-    "timeWeek": 722,
-    "timeMonth": 670,
-    "timeYear": 734,
+    "time": 764,
+    "timeDay": 316,
+    "timeWeek": 629,
+    "timeMonth": 665,
+    "timeYear": 732,
     "dailyMinutesDown": {
       "2025-10-20": 33
     }
@@ -70,10 +70,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 470,
-    "timeDay": 333,
-    "timeWeek": 466,
+    "timeDay": 275,
+    "timeWeek": 438,
     "timeMonth": 409,
-    "timeYear": 477,
+    "timeYear": 476,
     "dailyMinutesDown": {
       "2025-08-18": 28,
       "2025-09-10": 32
@@ -85,16 +85,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.blancfashion.com.ico",
     "slug": "news-and-views",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1027,
-    "timeDay": 615,
-    "timeWeek": 858,
-    "timeMonth": 866,
-    "timeYear": 1095,
+    "timeDay": 526,
+    "timeWeek": 755,
+    "timeMonth": 861,
+    "timeYear": 1092,
     "dailyMinutesDown": {
       "2025-10-20": 33
     }
